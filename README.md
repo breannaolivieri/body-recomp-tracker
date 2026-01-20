@@ -1,14 +1,14 @@
-# Body Recomp Tracker 💪
+# Body Recomp Tracker 
 
 A beautiful desktop fitness tracking application built with Python that helps you track workouts, nutrition, and body composition progress!
 
 ## Features
 
-- 🏋️ **Workout Logging**: Track exercises, sets, reps, and weights using the ExerciseDB API
-- 🍎 **Nutrition Tracking**: Log meals and track macros (protein, carbs, fats) using USDA FoodData Central
-- 📈 **Progress Tracking**: Monitor body measurements and weight over time
-- 📊 **Data Visualization**: Beautiful charts showing your progress
-- 💾 **Local Database**: All your data stored securely on your computer
+- **Workout Logging**: Track exercises, sets, reps, and weights using the ExerciseDB API
+- **Nutrition Tracking**: Log meals and track macros (protein, carbs, fats) using USDA FoodData Central
+- **Progress Tracking**: Monitor body measurements and weight over time
+- **Data Visualization**: Beautiful charts showing your progress
+- **Local Database**: All your data stored securely on your computer
 
 ## Tech Stack
 
@@ -108,7 +108,7 @@ body-recomp-tracker/
 ### First Time Setup
 1. Run the app
 2. Enter your profile information (name, age, height, weight, macro goals)
-3. Click "Let's Go! 🚀"
+3. Click "Let's Go!"
 
 ### Dashboard
 - View your current stats and macro targets
@@ -143,12 +143,12 @@ body-recomp-tracker/
 
 ## Future Enhancements
 
-- 📱 Export data to CSV
-- 🤖 ML model to predict progress
-- 📸 Progress photo comparisons
-- 🔔 Reminder notifications
-- 📊 More detailed analytics
-- 🏆 Achievement badges
+-  Export data to CSV
+-  ML model to predict progress
+-  Progress photo comparisons
+-  Reminder notifications
+-  More detailed analytics
+-  Achievement badges
 
 ## Troubleshooting
 
@@ -176,4 +176,4 @@ MIT License - feel free to use and modify!
 
 ---
 
-Built with 💪 and Python!
+Built with Python!
